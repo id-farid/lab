@@ -1,0 +1,15 @@
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.AssemblyInfoInputs.cache
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.AssemblyInfo.cs
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.sourcelink.json
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\bin\Debug\net9.0\asyncAwait.exe
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\bin\Debug\net9.0\asyncAwait.deps.json
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\bin\Debug\net9.0\asyncAwait.runtimeconfig.json
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\bin\Debug\net9.0\asyncAwait.dll
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\bin\Debug\net9.0\asyncAwait.pdb
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.dll
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\refint\asyncAwait.dll
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.pdb
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\asyncAwait.genruntimeconfig.cache
+C:\Users\Farid\projects\lab\c#_topics\asyncAwait\asyncAwait\obj\Debug\net9.0\ref\asyncAwait.dll
