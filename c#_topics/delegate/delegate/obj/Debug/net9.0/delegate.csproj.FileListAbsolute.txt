@@ -1,0 +1,15 @@
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\bin\Debug\net9.0\delegate.exe
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\bin\Debug\net9.0\delegate.deps.json
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\bin\Debug\net9.0\delegate.runtimeconfig.json
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\bin\Debug\net9.0\delegate.dll
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\bin\Debug\net9.0\delegate.pdb
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.AssemblyInfoInputs.cache
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.AssemblyInfo.cs
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.csproj.CoreCompileInputs.cache
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.sourcelink.json
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.dll
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\refint\delegate.dll
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.pdb
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\delegate.genruntimeconfig.cache
+C:\Users\Farid\projects\lab\c#_topics\delegate\delegate\obj\Debug\net9.0\ref\delegate.dll
